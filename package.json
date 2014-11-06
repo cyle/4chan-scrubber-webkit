@@ -1,0 +1,21 @@
+{
+    "name": "4chan-b-scrubber",
+    "main": "index.html",
+    "description": "Oh.",
+    "version": "0.1.0",
+    "keywords": [ "cylenet", "awesome", "deepest web", "interweb", "4chan" ],
+    "window": {
+        "title": "4chan /b/ Image Scrubber",
+        "toolbar": false,
+        "frame": true,
+        "width": 900,
+        "height": 800,
+        "position": "mouse",
+        "min_width": 400,
+        "min_height": 400
+    },
+    "maintainers":[ {
+        "name": "Cyle Gage",
+        "web": "http://www.cylesoft.com/",
+    } ]
+}
