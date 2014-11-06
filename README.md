@@ -4,10 +4,10 @@ Finally. A new, working app-based version of the 4chan /b/ image scrubber. This 
 
 ## Usage
 
-- Clone this repo somewhere.
-- Download the *0.8.6* version of [node-webkit](https://github.com/rogerwang/node-webkit) for your platform.
-- Put the .app or .exe node-webkit inside this repo.
-- Run it! That's it.
+1. Clone this repo somewhere.
+2. Download the **0.8.6** version of [node-webkit](https://github.com/rogerwang/node-webkit) for your platform.
+3. Put the .app or .exe node-webkit inside this repo.
+4. Run it! That's it.
 
 ## Notes
 
